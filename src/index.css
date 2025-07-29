@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+.text-green-700{
+  color:darkgreen;
+}
+
+/* index.css or App.css */
+
+/* .heading {
+  @apply text-2xl;
+} */
+
+
